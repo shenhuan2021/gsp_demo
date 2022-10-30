@@ -1,7 +1,7 @@
 package common;
 
 public class gspCommon {
-    public static String BASE_SQL_DIR = "gsp_sqlfiles-master/TestCases/";
+    public static String BASE_SQL_DIR = "/home/vsts/work/1/s/gsp_sqlfiles/TestCases/";
     public static String BASE_SQL_DIR_PUBLIC = BASE_SQL_DIR+"public/";
     public static String BASE_SQL_DIR_PRIVATE = BASE_SQL_DIR+"private/";
 	  public static String BASE_SQL_DIR_PUBLIC_ALLVERSIONS = BASE_SQL_DIR_PUBLIC+"allversions/";
